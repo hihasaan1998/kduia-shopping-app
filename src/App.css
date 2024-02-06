@@ -1,7 +1,10 @@
 .App {
   text-align: center;
+  background-position: 100%;
 }
-
+.light-blue-bg {
+  background-color: rgba(31, 98, 153, 0.303);; /* Replace with your desired light green color */
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
